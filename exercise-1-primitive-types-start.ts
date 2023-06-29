@@ -16,7 +16,7 @@ let currency: string | null = null;
 
 // Change the type annotations on these variables so they are correct.
 
-let population: number = 59119999;
+let population: number = 59_119_999;
 
 let isSummer: boolean = false;
 
